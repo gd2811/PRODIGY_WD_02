@@ -22,6 +22,3 @@ This project is a simple and visually appealing stopwatch application. It allows
 - Add Lap functionality.
 - Implement countdown timer mode.
 - Improve responsiveness.
-- Add sound notifications.
-
-
